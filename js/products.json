@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Iphone 11",
+        "productImg": "img/Iphone-11-Green-Back-800x800.jpg",
+        "price": 670
+    },
+    {
+        "title": "Iphone 12",
+        "productImg": "img/iPhone 12.jpg",
+        "price": 829
+    },
+    {
+        "title": "Iphone 13",
+        "productImg": "img/iphone-13-1b-green-800x800.png",
+        "price": 1000
+    },
+    {
+        "title": "Iphone 13 Mini",
+        "productImg": "img/iphone-13-mini-1b-green-800x800.png",
+        "price": 829
+    },
+    {
+        "title": "Iphone 13 Pro",
+        "productImg": "img/iphone-13-pro-1b-alpine-green-800x800.png",
+        "price": 1299
+    },
+    {
+        "title": "Iphone 13 Pro Max",
+        "productImg": "img/iphone-13-pro-max-1b-alpine-green-800x800.png",
+        "price": 1399
+    },
+    {
+        "title": "Samsung s22 Ultra 5G",
+        "productImg": "img/samsung-s22-ultra-5g-burgundy-back-800x800.jpg",
+        "price": 1199
+    },
+    {
+        "title": "Samsung Flip 3",
+        "productImg": "img/samsung-galaxy-flip-3-green-open-back-800x800.jpg",
+        "price": 1199
+    }
+]
